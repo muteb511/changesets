@@ -2,7 +2,7 @@
 
 _10 August 2026_
 
-![Banner](/blog/announcing-changesets-v3.webp)
+![Banner](/blog/announcing-changesets-v3.png)
 
 Today, we are excited to announce the release of Changesets v3. Since the release of v2 seven years ago, this new version brings a host of improvements, cleanups, and modernizations to the Changesets CLI and its packages, and stands as a stepping stone for more ambitious changes we have planned for the future.
 
@@ -83,4 +83,4 @@ It uses our new package [`@changesets/format`](https://npmx.dev/@changesets/form
 
 <!-- TODO: needs link -->
 
-You can see the [relevant section in the migration guide]() for how to configure it.
+You can see the [relevant section in the migration guide](<>) for how to configure it.
