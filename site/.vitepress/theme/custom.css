@@ -66,6 +66,8 @@
 }
 
 .VPDoc img {
+  margin: auto;
+  object-fit: contain;
   border-radius: 10px;
   box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.5);
 }
